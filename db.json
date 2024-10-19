@@ -1,0 +1,37 @@
+{
+  "organization": [
+    {
+      "key": 70,
+      "companyName": "Inter-nation",
+      "inn": "123456789",
+      "status": "1",
+      "regionId": "1",
+      "regionName": "Toshkent viloyati",
+      "address": "chilnzor mtrosi",
+      "createdDate": "2024-10-12",
+      "id": "2708"
+    },
+    {
+      "id": "5a29",
+      "key": 24,
+      "companyName": "inter",
+      "inn": "231241224",
+      "status": "2",
+      "regionId": "1",
+      "regionName": "Toshkent viloyati",
+      "address": "cscscscs",
+      "createdDate": "2024-10-15"
+    },
+    {
+      "id": "7e61",
+      "key": 21,
+      "companyName": "Everest",
+      "inn": "123456789",
+      "status": "1",
+      "regionId": "3",
+      "regionName": "Andijon viloyati",
+      "address": "Novza metrosida",
+      "createdDate": "2024-10-17"
+    }]
+  
+}
